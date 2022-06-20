@@ -1,0 +1,73 @@
+
+
+branches- 
+
+main branch  - readme.md   (Abin)
+
+    from sub_branch to main     i need to PULL request sub_branch to main branch
+     
+
+    sub_branch   - readme.md  +  name.txt (Yamini)     upload file...         commit... (save point) 
+
+
+
+		Version concepts...   for every particular release ...    
+		
+		
+
+
+main_branch  ( Knowledge graph)   1.0
+
+	
+	release_1_branch     <- pull      development_1_branch   (approve)   -check  collectively - major mistakes   ( version 30 -06-2022)
+	
+	1 month
+	development_1_branch(small )       4 files  + 5th file  + 6th file   (library)- which can be useful fo reverting the things like commit 1, commit 2
+	
+		download it to local - command line interface    &    desktop interface          atleast one software 
+			
+			pc 1 (yamini) -          		   						pc 2 (sanjeev)          
+				4files + 5th file										4files+   6th file
+				
+			
+			1. clone the code(4 files)								1. cloned the code at same time (4 files)
+			--- verify cloud or local sync  
+			(means no changes are there)
+			
+			2. PUSH 5th file to cloud  + commit the changes					2.  I also need to push my 6th file actually  when i went to cloud I have seen your 5th file there
+																		which is not present at my end 
+																	3.   pull all at present code (all 5 files) and than 
+			
+			3. u can see the changes in cloud your 5th file			4. I have all changes at my side also,   now after that i will push my 6th file to development branch.
+			
+		
+
+	release_2_branch (collectively) major mistakes    -  31-07-2022
+			
+	development_2_branch(small)
+		download it to local - command line interface    &    desktop interface          atleast one software 
+			
+			pc 1 (yamini) -          		   						pc 2 (sanjeev)          
+				4files + 5th file										4files+   6th file
+				
+			
+			1. clone the code(4 files)								1. cloned the code at same time (4 files)
+			--- verify cloud or local sync  
+			(means no changes are there)
+			
+			2. push 5th file to cloud  + commit the changes					2.  I also need to push my 6th file actually  when i went to cloud I have seen your 5th file there
+																		which is not present at my end 
+																	3.   pull all at present code (all 5 files) and than 
+			
+			3. u can see the changes in cloud your 5th file			4. I have all changes at my side also,   now after that i will push my 6th file to development branch.
+			
+		
+	
+
+	
+
+	
+		
+			
+
+	
